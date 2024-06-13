@@ -1,0 +1,17 @@
+button {
+    border: none;
+    padding: .3rem .5rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    border-radius: 3px;
+    margin: 1rem .5rem 0 0;
+
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.comment:hover {
+    background-color: rgba(194, 107, 21, 0.514);
+}
